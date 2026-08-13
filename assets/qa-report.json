@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "errors": [],
+  "warnings": [],
+  "counts": {
+    "pages": 167,
+    "major_sections": 10,
+    "images": 110,
+    "local_links": 131,
+    "html_characters": 548267,
+    "html_text_characters": 453429
+  }
+}
